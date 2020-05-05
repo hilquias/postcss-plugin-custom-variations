@@ -1,0 +1,12 @@
+.black {
+    color: white;
+    background: black;
+    @variation hover;
+    @variation focus;
+    @variation active;
+    @variation screen-xs;
+    @variation screen-sm;
+    @variation screen-md;
+    @variation screen-lg;
+    @variation screen-xl;
+}

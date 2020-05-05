@@ -1,0 +1,46 @@
+.black {
+    color: white;
+    background: black;
+}
+.black\@hover:hover {
+    color: white;
+    background: black;
+}
+.black\@focus:focus {
+    color: white;
+    background: black;
+}
+.black\@active:active {
+    color: white;
+    background: black;
+}
+@media screen and (min-width: 20em) {
+    .black\@screen-xs {
+        color: white;
+        background: black;
+    }
+}
+@media screen and (min-width: 40em) {
+    .black\@screen-sm {
+        color: white;
+        background: black;
+    }
+}
+@media screen and (min-width: 48em) {
+    .black\@screen-md {
+        color: white;
+        background: black;
+    }
+}
+@media screen and (min-width: 64em) {
+    .black\@screen-lg {
+        color: white;
+        background: black;
+    }
+}
+@media screen and (min-width: 80em) {
+    .black\@screen-xl {
+        color: white;
+        background: black;
+    }
+}
